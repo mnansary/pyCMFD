@@ -1,5 +1,6 @@
 # pyCMFD
 Copy Move Image Forgery Detection with Segmentation Models 
+
     Version: 0.0.2  
     Python : 3.6.9
     Author : Anas Basalamah
