@@ -1,7 +1,7 @@
 # pyCMFD
 Copy Move Image Forgery Detection with Segmentation Models 
 
-    Version: 0.0.2  
+    Version: 0.0.3  
     Python : 3.6.9
     Author : Anas Basalamah
              Md. Nazmuddoha Ansary 
@@ -16,11 +16,7 @@ Copy Move Image Forgery Detection with Segmentation Models
 * pip3 install -r requirements.txt
 
 #  Preprocessing The Data
-**MICC-F2000**
-* Download [MICC-F2000](http://lci.micc.unifi.it/labd/2015/01/copy-move-forgery-detection-and-localization/) dataset    
-* Unzip MICC-F2000.zip    
-*NOTE:The dataset contains a file named: nikon7_scale.jpg. It has to be renamed as nikon_7_scale.jpg.*       
-
+**To be added with proper documentation**
 
 # Colab and TPU(Tensor Processing Unit)
 *TPU’s have been recently added to the Google Colab portfolio making it even more attractive for quick-and-dirty machine learning projects when your own local processing units are just not fast enough. While the **Tesla K80** available in Google Colab delivers respectable **1.87 TFlops** and has **12GB RAM**, the **TPUv2** available from within Google Colab comes with a whopping **180 TFlops**, give or take. It also comes with **64 GB** High Bandwidth Memory **(HBM)**.*
@@ -28,5 +24,3 @@ Copy Move Image Forgery Detection with Segmentation Models
 
 
 
-# Publications:
-A research paper relating to the work is currently being communicated by the researchers. Once published, the publication link will be added here
